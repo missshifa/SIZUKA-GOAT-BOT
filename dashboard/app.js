@@ -71,7 +71,7 @@ module.exports = async (api) => {
 			refreshToken,
 			accessToken
 		}
-	});
+	}); 
 
 
 	const {
