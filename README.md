@@ -7,13 +7,13 @@
 
 
 Assalamualaikum Everyone!  
-**𝐖𝐄𝐋𝐂𝐎𝐌 𝐓𝐎 𝐌𝐘 𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕3 𝐅𝐎𝐑𝐊**
+**𝐖𝐄𝐋𝐂𝐎𝐌 𝐓𝐎 𝐌𝐘 𝐒𝐇𝐈𝐅𝐀𝐓 𝐆𝐎𝐀𝐓 𝐒𝐇𝐈𝐙𝐔𝐊𝐀 𝐁𝐎𝐓**
 
 ![Box-shaped Imege](https://i.imgur.com/B14qpER.jpeg)
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;"<p align="center">
-  <a href="#">`𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 𝐕3 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐒𝐇𝐈𝐅𝐀𝐓`"</span><br>
+  <a href="#">`𝐆𝐎𝐀𝐓 𝐒𝐇𝐈𝐙𝐔𝐊𝐀 𝐁𝐎𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐃 𝐁𝐘 𝐒𝐇𝐈𝐅𝐀𝐓`"</span><br>
   <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝐒__𝐇__𝐈__𝐅__𝐀__𝐓`" alt="">
 </p>
@@ -21,7 +21,7 @@ Assalamualaikum Everyone!
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝐒𝐇𝐈𝐅𝐀𝐓+𝐆𝐎𝐀𝐓+𝐁𝐎𝐓+𝐕3`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝐒𝐇𝐈𝐅𝐀𝐓+𝐆𝐎𝐀𝐓+𝐒𝐇𝐈𝐙𝐔𝐊𝐀+𝐁𝐎𝐓`" alt="">
 
 <br>
 
@@ -68,7 +68,7 @@ jobs:
       run: npm start
 ```
 
-______✨⚡
+______✨⚡🕊️
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KAKASHI-V5&show_icons=true&theme=radical" alt="GitHub Stats" />
