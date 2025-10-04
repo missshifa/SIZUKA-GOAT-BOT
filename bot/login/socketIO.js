@@ -1,7 +1,7 @@
 // This module will be called if enabled in the config (severUptime.socket.enable = true)
 /**
  * @example for connect to socket.io
- * view file ./connectSocketIO.example.js
+ * view file ./connectSocketIO.example.js 
  */
 const { Server } = require("socket.io");
 const { log, getText } = global.utils;
