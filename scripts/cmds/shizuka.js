@@ -5,12 +5,12 @@ module.exports.config = {
   name: "shizuka",
   version: "1.0",
   role: 0,
-  author: "Ew’r Saim",
+  author: "SHIFAT",
   description: " AI GF Shizuka",
   usePrefix: true,
   guide: "[message] | just type shizuka",
   category: "ai",
-  aliases: ["cuna", "xan"]
+  aliases: ["sizuka", "xan"]
 };
 
 const API_BASE = "https://xsaim8x-xxx-api.onrender.com/api/shizuka";
